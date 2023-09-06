@@ -49,4 +49,5 @@ Two sided communication. All participants are active. All are on equal terms.
 ---
 1. Physical barrier.
 2. Semantic barrier.
-3. Language barier
+3. Language barrier - language gap mostly.
+4. Social and psychological barrier - mostly.

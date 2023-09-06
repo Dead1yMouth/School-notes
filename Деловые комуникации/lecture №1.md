@@ -15,17 +15,22 @@ Kinds of communication:
 ## Principals of communications and speech:
 
 the 7 c's of communications:
-1. Clarity: Ensure that your message is clear and easy to understand. Avoid ambiguity, jargon, or complex language that could confuse the recipient.
+1. Clarity (Чистота): Ensure that your message is clear and easy to understand. Avoid ambiguity, jargon, or complex language that could confuse the recipient.
 
-2. Conciseness: Keep your message brief and to the point. Avoid unnecessary details and information that may dilute the main message.
+2. Conciseness (Лаконичность): Keep your message brief and to the point. Avoid unnecessary details and information that may dilute the main message. 
 
-3. Concreteness: Use specific facts and figures to support your message. Concrete details make your communication more credible and convincing.
+3. Concreteness (Уверенность): Use specific facts and figures to support your message. Concrete details make your communication more credible and convincing.
    
-4. Correctness: Ensure that your message is free from grammatical errors, spelling mistakes, and other inaccuracies. Errors can undermine your credibility.
+4. Correctness (Правильсность): Ensure that your message is free from grammatical errors, spelling mistakes, and other inaccuracies. Errors can undermine your credibility.
    
-5. Consideration: Be empathetic and considerate of the recipient's feelings, perspective, and needs. Tailor your message to the audience to make it more relevant and relatable.
+5. Candidness (Искренность): Be empathetic and considerate of the recipient's feelings, perspective, and needs. Tailor your message to the audience to make it more relevant and relatable.
    
-6. Completeness: Provide all the necessary information in your message so that the recipient has a clear understanding of the topic or issue. Incomplete messages can lead to confusion.
+6. Completeness (Полнота): Provide all the necessary information in your message so that the recipient has a clear understanding of the topic or issue. Incomplete messages can lead to confusion.
    
-7. Courtesy: Communicate with politeness and respect. Show appreciation for the recipient's time and attention, and avoid using offensive or disrespectful language.
+7. Courtesy (Учтивость): Communicate with politeness and respect. Show appreciation for the recipient's time and attention, and avoid using offensive or disrespectful language.
+
+## Models of communication
+
+### Bull's eye theory:
+One sided communication, there are onli
 

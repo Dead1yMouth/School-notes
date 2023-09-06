@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "896cf2d325f8ee98",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78ffd82e471899a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "907c91813de0cc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория автоматов и формальных языков/Теория автоматов и формальных языков л.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "310e18eed4c6fdea",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ca0f3610360d7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5394ab5936bc9e9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ead756ea262ff87e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7becb45544d32ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b8483a378c6329f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16615e7b6aa54474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe56bc4127216bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f44999b91f458d64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Теория автоматов и формальных языков/Теория автоматов и формальных языков л.1.md"
+              }
+            }
+          },
+          {
+            "id": "f65a163cdc726b11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Теория автоматов и формальных языков/Теория автоматов и формальных языков л.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35085deed639b589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Теория автоматов и формальных языков/Теория автоматов и формальных языков л.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07cf605f9480d65b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "907c91813de0cc35",
+  "lastOpenFiles": [
+    "school",
+    "Untitled.canvas",
+    "Теория автоматов и формальных языков/Теория автоматов и формальных языков л.1.md",
+    "Проектирование программных систем/1. ЛабРаб/8. ПособиеБелов., Чистякова В.И. КП.pdf",
+    "Проектирование программных систем/2. КП/3. ПособиеБелов КП.pdf",
+    "Проектирование программных систем/1. ЛабРаб/5. Белов В.В., Чистякова В.И. UML-моделирование функциональности  и поведения ПрИС. МУ к лаб. раб. и пр. занятиям.pdf",
+    "Проектирование программных систем/1. ЛабРаб/4. Орлов С.А. Программная инженерия.pdf",
+    "Проектирование программных систем/1. ЛабРаб/2. УчебникБеловЧистякова.pdf",
+    "Проектирование программных систем/1. ЛабРаб/3. УчебникИвановНовиковUML2011.pdf",
+    "Проектирование программных систем/Проектирование программных систем.md",
+    "Проектирование программных систем/StarUML_5.0/англ.StarUML_5.0_User_Guide.pdf",
+    "Проектирование программных систем/StarUML_5.0/user-guide.pdf",
+    "Проектирование программных систем/StarUML_5.0/staruml-src.zip",
+    "Проектирование программных систем/StarUML_5.0/staruml-5.0-with-cm.exe",
+    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
+    "Функциональное программирование/Смирнов_Вадим_Лаб_1.md",
+    "Функциональное программирование/Pasted image 20230904125619.png.md",
+    "Теория автоматов и формальных языков/Untitled 1.md",
+    "Теория автоматов и формальных языков/Untitled.md",
+    "imgs/Pasted image 20230902142952.png",
+    "Pasted image 20230904124734.png",
+    "Pasted image 20230904125619.png",
+    "Функциональное программирование/Смирнов_Вадим_Лаб_1 1.md",
+    "Функциональное программирование.md",
+    "imgs/Pasted image 20230902144728.png",
+    "Pasted image 20230902144635.png",
+    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.svg",
+    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.png",
+    "Hello.md"
+  ]
+}

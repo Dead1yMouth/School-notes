@@ -15,5 +15,8 @@ Kinds of communication:
 ## Principals of communications and speech:
 
 the 7 c's of communications:
-1. must be courteous (Учтивое)
+1. courteous speech (Учтивый) - We should not show our emotions.
+2. concrete speech - ???
+3. correct speech - You need to be accurate in what you say.
+4. candid speech (Искренний) - using both kinds of communication.
 

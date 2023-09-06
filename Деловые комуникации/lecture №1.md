@@ -4,17 +4,16 @@ Lecturers Name: Irina Vasilievna Galichina.
 
 >Business communication - **the process of sharing information between people within the workplace and outside a company**.
 
-communication - sharing of information
+>communication - sharing of information
 
-when speaking about business communication we speak about professional information.
+When speaking about business communication we speak about professional information.
 
 Kinds of communication:
 1. verbal - words
 2. non verbal communication - avoids words (gestures, mimics, pictures)
 
 ## Principals of communications and speech:
-
-the 7 c's of communications:
+### the 7 c's of communications:
 1. Clarity (Чистота): Ensure that your message is clear and easy to understand. Avoid ambiguity, jargon, or complex language that could confuse the recipient.
 
 2. Conciseness (Лаконичность): Keep your message brief and to the point. Avoid unnecessary details and information that may dilute the main message. 
@@ -32,5 +31,15 @@ the 7 c's of communications:
 ## Models of communication
 
 ### Bull's eye theory:
-One sided communication, there are onli
+One sided communication. Actively participates one side of communication.
 
+### Ping Pong theory:
+Two sided communication. All participants are active. All are on equal terms.
+## Components of communication.
+
+1. Source of communication.
+2. Message of communication.
+3. Channel of communication. (Visual channel, Audio channel, written channel) => most frequently used.
+4. Receiver.
+5. Feed back.
+6. Environment. Phisical conditions around surrounding you.

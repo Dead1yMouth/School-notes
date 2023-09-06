@@ -1,7 +1,5 @@
-Lecturers Name: Irina Vasilievna Galichina.
-
 ## Communication
-
+---
 >Business communication - **the process of sharing information between people within the workplace and outside a company**.
 
 >communication - sharing of information
@@ -13,6 +11,7 @@ Kinds of communication:
 2. non verbal communication - avoids words (gestures, mimics, pictures)
 
 ## Principals of communications and speech:
+---
 ### the 7 c's of communications:
 1. Clarity (Чистота): Ensure that your message is clear and easy to understand. Avoid ambiguity, jargon, or complex language that could confuse the recipient.
 
@@ -29,17 +28,25 @@ Kinds of communication:
 7. Courtesy (Учтивость): Communicate with politeness and respect. Show appreciation for the recipient's time and attention, and avoid using offensive or disrespectful language.
 
 ## Models of communication
-
+---
 ### Bull's eye theory:
 One sided communication. Actively participates one side of communication.
 
 ### Ping Pong theory:
 Two sided communication. All participants are active. All are on equal terms.
 ## Components of communication.
-
+---
 1. Source of communication.
 2. Message of communication.
-3. Channel of communication. (Visual channel, Audio channel, written channel) => most frequently used.
+3. Channel of communication => Visual channel, Audio channel, written channel => most frequently used and etc.
 4. Receiver.
 5. Feed back.
-6. Environment. Phisical conditions around surrounding you.
+6. Environment. Physical conditions around surrounding you.
+7. Context - Linguistic context - only about words. Extra linguistic context - about words and addition components.
+8. Interference - Environmental conditions interfering communication => Noises, time etc.
+
+## Barriers of communications
+---
+1. Physical barrier.
+2. Semantic barrier.
+3. Language barier

@@ -40,7 +40,7 @@ Two sided communication. All participants are active. All are on equal terms.
 2. Message of communication.
 3. Channel of communication => Visual channel, Audio channel, written channel => most frequently used and etc.
 4. Receiver.
-5. Feed back.
+5. Feedback.
 6. Environment. Physical conditions around surrounding you.
 7. Context - Linguistic context - only about words. Extra linguistic context - about words and addition components.
 8. Interference - Environmental conditions interfering communication => Noises, time etc.

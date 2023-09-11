@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Архитектура вычислительных систем/Лекция 1.md"
+              }
             }
           },
           {
@@ -114,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Архитектура вычислительных систем/Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Архитектура вычислительных систем/Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "544c4d62b8a73ad0",
+  "active": "7d328bbd68c95e29",
   "lastOpenFiles": [
     "Архитектура вычислительных систем/Лекция 1.md",
     "ОС Linux/Лекция 1.md",

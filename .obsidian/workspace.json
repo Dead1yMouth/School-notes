@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md",
+                "file": "ОС Linux/Лекция 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md"
+                "file": "ОС Linux/Лекция 1.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md",
+                "file": "ОС Linux/Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md",
+                "file": "ОС Linux/Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +136,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fa54db2cbcd0e09e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -147,20 +157,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "05c14c5ae8c929ee",
   "lastOpenFiles": [
-    "Деловые комуникации/lecture №1.md",
     "Архитектура вычислительных систем/Лекция 1.md",
+    "Деловые комуникации/lecture №1.md",
     "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
     "Pasted image 20230911163231.png",
     "Архитектура вычислительных систем/Pasted image 20230911162918.png.md",

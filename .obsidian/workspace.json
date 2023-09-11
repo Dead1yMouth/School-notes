@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d328bbd68c95e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура вычислительных систем/Лекция 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ОС Linux/Лекция 1.md"
+                "file": "Архитектура вычислительных систем/Лекция 1.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ОС Linux/Лекция 1.md",
+                "file": "Архитектура вычислительных систем/Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ОС Linux/Лекция 1.md",
+                "file": "Архитектура вычислительных систем/Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,14 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5394ab5936bc9e9f",
+  "active": "7d328bbd68c95e29",
   "lastOpenFiles": [
-    "Untitled",
+    "ОС Linux/Лекция 1.md",
+    "Архитектура вычислительных систем/Лекция 1.md",
+    "Архитектура вычислительных систем",
     "Функциональное программирование/Смирнов_Вадим_Лаб_1.md",
     "Деловые комуникации/Untitled.md",
     "Теория автоматов и формальных языков/Лекция 1.md",
     "Проектирование программных систем/Лекция 1.md",
-    "ОС Linux/Лекция 1.md",
     "Деловые комуникации/lecture №1.md",
     "ОС Linux",
     "Деловые комуникации",
@@ -175,7 +189,6 @@
     "Проектирование программных систем/1. ЛабРаб/4. Орлов С.А. Программная инженерия.pdf",
     "Проектирование программных систем/1. ЛабРаб/2. УчебникБеловЧистякова.pdf",
     "Проектирование программных систем/1. ЛабРаб/3. УчебникИвановНовиковUML2011.pdf",
-    "Проектирование программных систем/StarUML_5.0/англ.StarUML_5.0_User_Guide.pdf",
     "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
     "Функциональное программирование/Pasted image 20230904125619.png.md",
     "Теория автоматов и формальных языков/Untitled 1.md",

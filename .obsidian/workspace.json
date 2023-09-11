@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc392c9dbc3660c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ОС Linux/Лекция 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7d328bbd68c95e29",
             "type": "leaf",
             "state": {
@@ -29,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "544c4d62b8a73ad0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b8483a378c6329f",
@@ -108,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Архитектура вычислительных систем/Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +162,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d328bbd68c95e29",
+  "active": "544c4d62b8a73ad0",
   "lastOpenFiles": [
-    "ОС Linux/Лекция 1.md",
     "Архитектура вычислительных систем/Лекция 1.md",
+    "ОС Linux/Лекция 1.md",
     "Архитектура вычислительных систем",
     "Функциональное программирование/Смирнов_Вадим_Лаб_1.md",
     "Деловые комуникации/Untitled.md",

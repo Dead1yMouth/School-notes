@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+                "file": "Теория автоматов и формальных языков/Лекция 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md"
+                "file": "Теория автоматов и формальных языков/Лекция 1.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+                "file": "Теория автоматов и формальных языков/Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+                "file": "Теория автоматов и формальных языков/Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

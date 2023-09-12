@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1ba413549062652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Untitled.md"
+                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md"
               }
             }
           },
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Untitled.md",
+                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Untitled.md",
+                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d2b90e7b2254f4b",
+  "active": "b1ba413549062652",
   "lastOpenFiles": [
     "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
     "Проектирование программного интерфейса/Лабораторные работы/Untitled.md",

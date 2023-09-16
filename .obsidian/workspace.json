@@ -11,9 +11,11 @@
             "id": "8611a2837604ffe4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md"
+                "file": "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md"
+                "file": "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md"
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
+                "file": "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
+                "file": "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +168,13 @@
   },
   "active": "8611a2837604ffe4",
   "lastOpenFiles": [
+    "Pasted image 20230916150903.png",
+    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
     "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md",
     "Теория автоматов и формальных языков/Лекция 1 Основные понятия теории автоматов.md",
     "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
     "Проектирование программного интерфейса/Лабораторные работы/Untitled.md",
     "Архитектура вычислительных систем/Лекция 1.md",
-    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
     "imgs/Pasted image 20230911163231.png",
     "imgs/Pasted image 20230912011550.png",
     "Проектирование программного интерфейса/Лабораторные работы",

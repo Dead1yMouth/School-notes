@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55dabf723e7d1a04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1ba413549062652",
+  "active": "55dabf723e7d1a04",
   "lastOpenFiles": [
     "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
     "Проектирование программного интерфейса/Лабораторные работы/Untitled.md",

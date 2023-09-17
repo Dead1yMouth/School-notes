@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "1bb01a9ae5cbc0b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8d982d940f85c079",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md"
+                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md"
               }
             }
           },
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+                "file": "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05c14c5ae8c929ee",
+  "active": "1bb01a9ae5cbc0b0",
   "lastOpenFiles": [
     "Архитектура вычислительных систем/Лекция 1.md",
     "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",

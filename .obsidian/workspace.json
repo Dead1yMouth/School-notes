@@ -8,18 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36f75265dd301fbc",
+            "id": "8d3994903ded77a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "a452b70880318cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деловые комуникации/Lecture №2.md",
+                "file": "Разработка требований/Прочее.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62134409ccb41b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разработка требований/Концепция системы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деловые комуникации/Lecture №2.md"
+                "file": "Разработка требований/Прочее.md"
               }
             }
           },
@@ -106,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деловые комуникации/Lecture №2.md",
+                "file": "Разработка требований/Прочее.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деловые комуникации/Lecture №2.md",
+                "file": "Разработка требований/Прочее.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +190,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36f75265dd301fbc",
+  "active": "a452b70880318cee",
   "lastOpenFiles": [
+    "Разработка требований/Концепция системы.md",
+    "Разработка требований/Разработка требований.md",
+    "Разработка требований/Прочее.md",
+    "Разработка требований",
+    "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md",
+    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
+    "Теория автоматов и формальных языков/Лекция 1 Основные понятия теории автоматов.md",
+    "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
+    "Деловые комуникации/Lecture №2.md",
     "Pasted image 20230920162010.png",
     "imgs/Pasted image 20230916150903.png",
     "imgs/Pasted image 20230920155959.png",
-    "Деловые комуникации/Lecture №2.md",
     "imgs/Pasted image 20230920155943.png",
     "imgs/Pasted image 20230920155925.png",
     "imgs/Pasted image 20230920155911.png",
@@ -179,16 +211,10 @@
     "imgs/Pasted image 20230920155831.png",
     "imgs/Pasted image 20230920154311.png",
     "imgs/Pasted image 20230920153841.png",
-    "imgs/Pasted image 20230920153428.png",
     "Деловые комуникации/Lecture №1.md",
-    "Теория автоматов и формальных языков/Лекция 2 Пример описания автомата.md",
-    "Теория автоматов и формальных языков/Лекция 1 Основные понятия теории автоматов.md",
     "Управление программным проектом/Сервер.md",
     "Теория автоматов и формальных языков/Untitled 1.md",
-    "Untitled",
     "Управление программным проектом",
-    "Excalidraw/Drawing 2023-09-02 14.24.39.excalidraw.md",
-    "Проектирование программного интерфейса/Лабораторные работы/Лаб. р. №1.md",
     "Проектирование программного интерфейса/Лабораторные работы/Untitled.md",
     "Архитектура вычислительных систем/Лекция 1.md",
     "Проектирование программного интерфейса/Лабораторные работы",

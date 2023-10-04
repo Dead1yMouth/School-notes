@@ -7,8 +7,8 @@
 When speaking about business communication we speak about professional information.
 
 Kinds of communication:
-1. verbal - words
-2. non verbal communication - avoids words (gestures, mimics, pictures)
+1. **verbal** - by means of words.
+2. **non verbal communication** - avoids words (gestures, mimics, pictures).
 
 ## Principals of communications and speech:
 ---

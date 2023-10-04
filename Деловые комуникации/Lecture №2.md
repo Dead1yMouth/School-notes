@@ -19,12 +19,14 @@ Profit = earnings - costs
 
 ![[Pasted image 20230920153428.png]]
 
-Гипотeзa лингвистическoй oтносительности (известная также как «**гипотеза Сепира** - **Уорфа**»)- тезис, согласно которому существующие в сознании человека системы понятий, а, следовательно, и существенные особенности его мышления определяются тем конкретным языком, носителем которого этот человек является.
+The hypothesis of linguistic relativity (also known as the **"Sapir hypothesis** - **Whorf**") is the thesis according to which the systems of concepts existing in a person's mind, and, consequently, the essential features of his thinking, are determined by the specific language of which this person is a carrier.
+
 
 Business cultures:
 1. Polyactive 
 2. Monoactive
 3. Reactive
+
 
 ### R. D. Lewis model: 
 ![[Pasted image 20230920153841.png]]

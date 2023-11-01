@@ -1,4 +1,5 @@
 {
   "accentColor": "",
-  "cssTheme": "Material Gruvbox"
+  "cssTheme": "Material Gruvbox",
+  "baseFontSize": 15
 }
